@@ -1,0 +1,6 @@
+[submodule "baby24-app"]
+	path = baby24-app
+	url = https://github.com/gdsc-ssu/baby24-app.git
+[submodule "baby24-server"]
+	path = baby24-server
+	url = https://github.com/gdsc-ssu/baby24-server.git
